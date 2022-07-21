@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCPb3wleGcpNjc9OxTR0k2jQSX4UYROu3c",
-  authDomain: "gazu-874da.firebaseapp.com",
-  projectId: "gazu-874da",
-  storageBucket: "gazu-874da.appspot.com",
-  messagingSenderId: "206218084253",
-  appId: "1:206218084253:web:a51ac12c93ab49b10f7974",
-  measurementId: "G-88T2S8MJRZ"
+  apiKey: "AIzaSyAwWRBuVA5_QO0OlX3y_74zZ8gd8X_WKN0",
+  authDomain: "gazuweb-ba988.firebaseapp.com",
+  projectId: "gazuweb-ba988",
+  storageBucket: "gazuweb-ba988.appspot.com",
+  messagingSenderId: "576029906800",
+  appId: "1:576029906800:web:5009e9dcf9c96a33fe21b5",
+  measurementId: "G-9P5YL43FSH"
 };
 
 // Initialize Firebase
